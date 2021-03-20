@@ -17,6 +17,7 @@ In this exercise I learned how to build a completely custom website using WordPr
 
 I utilized PHP to create a Wordpress theme, from scratch.  Created the design utilizing the Elementor plugin for Wordpress.  Created custom .css file for styles used throughout website.  
 
+
 Utilized the following plugins in Wordpress:
 
 Elementor
@@ -32,6 +33,7 @@ Custom Post Type UI
 Duplicate Page
 
 Strong Testimonials
+
 
 Custom functionality created for this site:
 
