@@ -3,7 +3,7 @@
 # thedevdrawer
 # freecodecamp.org
 
-Custom Wordpress site and Theme for a sample law firm.
+Custom Wordpress site and Theme for a sample law firm from an Adobe Illustrator mockup file, uploaded for you to review as the example I used.
 
 This site was created as a practice exercise with instruction from freecodecamp.org's YoutTube tutorial presented by TheDevDrawer.
 
