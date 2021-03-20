@@ -8,7 +8,9 @@ Custom Wordpress site and Theme for a sample law firm.
 This site was created as a practice exercise with instruction from freecodecamp.org's YoutTube tutorial presented by TheDevDrawer.
 
 https://www.youtube.com/watch?v=IPo71JPKUmg&t=14796s
+
 https://github.com/thedevdrawer/
+
 https://www.freecodecamp.org/
 
 In this exercise I learned how to build a completely custom website using WordPress, PHP, HTML, CSS, and Elementor. I set up a local server, created the design, and built a custom WordPress theme that works with Elementor. 
